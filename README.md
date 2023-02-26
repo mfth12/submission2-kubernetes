@@ -1,5 +1,5 @@
 # Submission - Proyek Deploy Aplikasi Karsa Jobs dengan Kubernetes
-Frontend for [karsajobs](https://github.com/mfth12/a433-microservices/tree/karsajobs) [karsajobs-ui](https://github.com/mfth12/a433-microservices/tree/karsajobs-ui)
+The backend-app [karsajobs](https://github.com/mfth12/a433-microservices/tree/karsajobs), frontend [karsajobs-ui](https://github.com/mfth12/a433-microservices/tree/karsajobs-ui), and [mongodb](https://hub.docker.com/_/mongo)
 
 ## Pull image
 ```
