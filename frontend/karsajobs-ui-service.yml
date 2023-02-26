@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: front-tier
+  labels:
+    app: microservices
+spec:
+  ports:
+    - port: 8000
+  selector:
+    tier: front
+  type: NodePort
